@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.KizilAsistan" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:statusBarColor">#171322</item>
+        <item name="android:navigationBarColor">#171322</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
